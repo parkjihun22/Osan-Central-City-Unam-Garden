@@ -4,6 +4,7 @@ import news3Img from "./assets/news/news3.jpg";
 import news4Img from "./assets/news/news4.jpg";
 
 const NewsList = [
+
     {
         id: 1,
         title: "오산 센트럴시티 운암뜰, 총 1,606세대 대단지 민간임대아파트로 주목",
