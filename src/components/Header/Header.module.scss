@@ -73,7 +73,8 @@
   
   /* 로고: 기존 크기 유지 */
   .logo {
-    width: 10vw;
+    margin-top: 0.5vw;
+    width: 13vw;
     height: auto;
   }
   
@@ -184,8 +185,7 @@
     text-decoration: none;
   
     .logo {
-      margin-top: -1vw;
-      width: 33vw;
+      width: 38vw;
     }
     .icon {
       margin: 1vw 3.5vw;

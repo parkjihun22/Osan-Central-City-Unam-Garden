@@ -14,20 +14,19 @@ import { Helmet } from "react-helmet-async";
 
 const projectData = [
 	{ label: '사업명', value: '오산 센트럴시티 운암뜰' },
-	{ label: '사업위치', value: '경기도 오산시 오산동 운암뜰 도시개발지구 일원' },
-	{ label: '대지면적', value: '추후 공개 예정' },
-	{ label: '건축면적', value: '추후 공개 예정' },
-	{ label: '연면적', value: '추후 공개 예정' },
-	{ label: '용적률', value: '추후 공개 예정' },
-	{ label: '건축규모', value: '지하 4층 ~ 지상 최고층(예정)' },
-	{ label: '세대수', value: '총 세대수 추후 공개 예정' },
+	{ label: '사업위치', value: '경기도 오산시 부산동 614번지 일원' },
+	{ label: '건축면적', value: '72,567.00㎡(21,951.52평)' },
+	{ label: '연면적', value: '226,347.9876㎡(68,470.27평)' },
+	{ label: '용적률', value: '199.26%' },
+	{ label: '건축규모', value: '지하 3층 ~ 지상 29층, 15개동' },
+	{ label: '세대수', value: '총 1,606세대' },
   ];
 
 const BusinessGuide1 = () => {
 	const menuContents = [
 		{ title: "사업안내", url: "/BusinessGuide/intro" },
 		// { title: "분양일정", url: "/BusinessGuide/plan" },
-		{ title: "공급안내", url: "/BusinessGuide/documents" }
+		// { title: "공급안내", url: "/BusinessGuide/documents" }
 	];
 	const [isScroll, setIsScroll] = useState(false);
 	const { pathname } = useLocation(); // 현재 경로를 가져옴

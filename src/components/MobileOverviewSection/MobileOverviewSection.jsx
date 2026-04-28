@@ -29,13 +29,13 @@ const items = [
         <li>
           <strong>대지위치</strong>
           <span>
-            경기도 오산시 오산동 운암뜰 도시개발지구 일원
+          경기도 오산시 부산동 614번지 일원
           </span>
         </li>
         <li>
           <strong>건축규모</strong>
           <span>
-            지하 4층 ~ 지상 49층 (예정)
+          규모	지하 3층 ~ 지상 29층, 15개동 총 1,606세대
           </span>
         </li>
         <li>
@@ -47,7 +47,7 @@ const items = [
         <li>
           <strong>세대수</strong>
           <span>
-            총 1,000세대 내외 (예정)
+            총 1,606세대 내외 (예정)
           </span>
         </li>
       </ul>

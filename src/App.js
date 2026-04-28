@@ -89,7 +89,7 @@ function App() {
         {/* Promotion: 이전 URL → 새 URL 리다이렉트 */}
         <Route
           path="/Promotion/Press"
-          element={<Navigate to="/청주테크노밸리제일풍경채/press" replace />}
+          element={<Navigate to="/오산 센트럴시티 운암뜰/press" replace />}
         />
 
         {/* site 기반 라우트: press 목록 / 상세 */}

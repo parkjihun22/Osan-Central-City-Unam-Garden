@@ -528,7 +528,7 @@ const Main = () => {
             {/* 기존 텍스트 */}
             <div className={styles.mainImageTextBox1}>
             <div className={styles.mainImageTextSub1}>
-              청주 중심에서 시작되는
+              오산 중심에서 시작되는
               <br />
               <span className={styles.greyText1}>프리미엄 라이프</span>
               <br />
@@ -598,7 +598,7 @@ const Main = () => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                청주의 중심으로 사는
+                오산의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>
