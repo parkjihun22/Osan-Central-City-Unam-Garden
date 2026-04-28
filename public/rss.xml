@@ -9,24 +9,6 @@
     <atom:link href="https://sinbiapt.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Mon, 01 Sep 2025 09:00:00 +0900</lastBuildDate>
 
-    <!-- 브랜드 소개 -->
-    <item>
-      <title>브랜드 소개</title>
-      <link>https://sinbiapt.co.kr/Brand/intro</link>
-      <guid isPermaLink="true">https://sinbiapt.co.kr/Brand/intro</guid>
-      <description><![CDATA[오산 센트럴시티 운암뜰의 브랜드 철학과 주거 가치를 소개합니다.]]></description>
-      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
-    </item>
-
-    <!-- 홍보 영상 -->
-    <item>
-      <title>홍보 영상</title>
-      <link>https://sinbiapt.co.kr/Brand/video</link>
-      <guid isPermaLink="true">https://sinbiapt.co.kr/Brand/video</guid>
-      <description><![CDATA[홍보 영상으로 오산 센트럴시티 운암뜰의 단지 분위기와 핵심 포인트를 확인하세요.]]></description>
-      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
-    </item>
-
     <!-- 사업안내 -->
     <item>
       <title>사업안내</title>
@@ -99,14 +81,6 @@
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
 
-    <!-- 59C -->
-    <item>
-      <title>59C</title>
-      <link>https://sinbiapt.co.kr/FloorPlan/84A</link>
-      <guid isPermaLink="true">https://sinbiapt.co.kr/FloorPlan/84A</guid>
-      <description><![CDATA[59C 타입 평면 안내입니다.]]></description>
-      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
-    </item>
 
     <!-- 84A -->
     <item>
@@ -123,24 +97,6 @@
       <link>https://sinbiapt.co.kr/FloorPlan/114A</link>
       <guid isPermaLink="true">https://sinbiapt.co.kr/FloorPlan/114A</guid>
       <description><![CDATA[84B 타입 평면 안내입니다.]]></description>
-      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
-    </item>
-
-    <!-- 84C -->
-    <item>
-      <title>84C</title>
-      <link>https://sinbiapt.co.kr/FloorPlan/114B</link>
-      <guid isPermaLink="true">https://sinbiapt.co.kr/FloorPlan/114B</guid>
-      <description><![CDATA[84C 타입 평면 안내입니다.]]></description>
-      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
-    </item>
-
-    <!-- E-모델하우스 -->
-    <item>
-      <title>E-모델하우스</title>
-      <link>https://sinbiapt.co.kr/FloorPlan/Emodel</link>
-      <guid isPermaLink="true">https://sinbiapt.co.kr/FloorPlan/Emodel</guid>
-      <description><![CDATA[온라인 E-모델하우스를 통해 내부 구조를 확인하세요.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
 
