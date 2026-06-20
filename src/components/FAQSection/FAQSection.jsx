@@ -5,7 +5,7 @@ import faqData from "../../../src/faqData";
 
 const FAQSection = ({
   title = "Q & A",
-  subTitle = "용인 이안 플렉시티 자주 묻는 질문",
+  subTitle = "오산 센트럴시티 운암뜰 자주 묻는 질문",
   data = faqData,
 }) => {
   const [openIndex, setOpenIndex] = useState(0);
